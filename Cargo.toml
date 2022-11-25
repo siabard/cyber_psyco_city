@@ -7,6 +7,7 @@ edition = "2021"
 
 [dependencies]
 hangul_jaso = { path = "../hangul_jaso"}
+jaso_sdl2 = { path = "../jaso_sdl2"}
 
 [dependencies.sdl2]
 version = "0.35"
